@@ -1,0 +1,49 @@
+ # 🚀Dominando o Estilo Arquitetural REST com Spring Web 🌐
+
+## Um projeto de exemplo que explora o estilo arquitetural REST com Spring Web para criar APIs flexíveis e eficientes.
+
+## 📜 Sumário
+
+- **1. Introdução ao REST com Spring MVC**
+  - 1.1. Estilo Arquitetural REST
+  - 1.2. Expondo Endpoints REST
+  - 1.3. Tratamento de Exceções
+
+- **2. Spring Security**
+  - 2.1. Soluções do Spring Security
+  - 2.2. Configurando Estratégias de Autenticação
+
+- **3. Actuator, Métricas e Health Check** 📊
+
+- **4. Spring Boot Test** ✅
+
+## 📋 Resumo
+
+Este projeto explora o estilo REST com o Spring Web, enfocando:
+
+- A arquitetura REST 🏛️
+- Exposição de endpoints REST 🌐
+- Tratamento de exceções 🚫
+- Spring Security para proteção e autorização 🔒
+- Configuração de autenticação básica e JWT 🛡️
+- Uso do OAuth 2.0 para segurança avançada 🌐
+- Monitoramento e verificação de saúde com o Spring Boot Actuator 📊
+- Testes de aplicativos Spring Boot ✅
+
+Sinta-se à vontade para explorar o código-fonte e os exemplos para aprofundar sua compreensão do desenvolvimento RESTful com o Spring Web. 🤓
+
+
+
+
+- Proteção:
+  1. Cross-Site Request Forgery (CSRF)
+  2. Security HTTP Response Headers
+  3. HTTP
+  4. HTTP Firewall
+
+- Vantagens:
+  1. Suporta autenticação e autorização.
+  2. Protege contra ataques.
+  3. Integração com API Servlet.
+  4. Integração opcional com Spring Web MVC.
+
